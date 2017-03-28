@@ -17,11 +17,18 @@
     "http",
     "server"
   ],
-  "author": "Felix Zhang",
+  "author": {
+    "name": "Felix Zhang"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hideweb/node-servers/issues"
   },
   "homepage": "https://github.com/hideweb/node-servers#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "gitHead": "c1bdfeeea6733ab50dd0aa492d98ab60b2237a4d",
+  "readme": "ERROR: No README data found!",
+  "_id": "node-servers@1.0.1",
+  "_shasum": "f9c8a36f0eec469ff4132e9c7f61d499c3f02550",
+  "_from": "node-servers@latest"
 }
