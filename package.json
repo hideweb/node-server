@@ -1,6 +1,6 @@
 {
-  "name": "node-server",
-  "version": "1.0.0",
+  "name": "node-servers",
+  "version": "1.0.1",
   "description": "Use Node.js to build the local server.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hideweb/node-server.git"
+    "url": "git+https://github.com/hideweb/node-servers.git"
   },
   "keywords": [
     "node",
@@ -20,8 +20,8 @@
   "author": "Felix Zhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hideweb/node-server/issues"
+    "url": "https://github.com/hideweb/node-servers/issues"
   },
-  "homepage": "https://github.com/hideweb/node-server#readme",
+  "homepage": "https://github.com/hideweb/node-servers#readme",
   "devDependencies": {}
 }
