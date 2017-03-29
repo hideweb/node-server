@@ -11,7 +11,11 @@ Use Node.js to build the local server.
 $ npm install -g node-servers
 ```
 
-## Demo
+## Example
 ```js
 var server = require('node-servers')();
+```
+
+```bash
+node server.js
 ```
