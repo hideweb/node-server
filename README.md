@@ -12,15 +12,15 @@ $ npm install node-servers
 ```
 
 ## Example
-### 1、需要搭建服务器文件夹创建server.js文件
-### 2、server.js文件
+#### 1、需要搭建服务器文件夹创建server.js文件
+#### 2、server.js文件
 ```js
 var server = require('node-servers')({PORT:3000});
 ```
-### 3、执行命令启动服务
+#### 3、执行命令启动服务
 ```bash
 node server.js
 ```
 
-### 4、浏览器访问 http://localhost:3000/
+#### 4、浏览器访问 http://localhost:3000/
 
