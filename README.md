@@ -24,3 +24,4 @@ node server.js
 
 #### 4、浏览器访问 http://localhost:3000/
 
+访问到当前目录咯，哈哈。
