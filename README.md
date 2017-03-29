@@ -5,3 +5,13 @@ Use Node.js to build the local server.
 [![npm](https://img.shields.io/npm/dm/node-servers.svg)](https://github.com/hideweb/node-servers)
 [![npm](https://img.shields.io/npm/l/node-servers.svg)](https://github.com/hideweb/node-servers)
 
+## Installation
+
+```bash
+$ npm install -g node-servers
+```
+
+## Demo
+```js
+var server = require('node-servers')();
+```
