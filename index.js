@@ -90,5 +90,3 @@ module.exports = function (obj) {
     server.listen(PORT);
     console.log("Server runing at port: " + PORT + ".");
 };
-
-// 测试 
